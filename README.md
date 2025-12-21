@@ -1,4 +1,5 @@
 # Loan Eligibility Prediction Analyser
+![Accuracy](accuracy.png)
 
 ## 📌 Project Overview
 This project predicts whether a customer is eligible for a personal loan based on financial and demographic details using Machine Learning techniques.  

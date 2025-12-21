@@ -37,7 +37,7 @@ The dataset maintains realistic financial correlations.
 
 ## 🚀 Demo
 🔗 **Live Demo / Notebook:**  
-[Demo](https://colab.research.google.com/drive/12DbK8TS1c8nYR8IcXDcQgAyNY13Xl845?usp=sharing)
+[Loan Eligibility Prediction Analyser](https://colab.research.google.com/drive/12DbK8TS1c8nYR8IcXDcQgAyNY13Xl845?usp=sharing)
 
 ## 📌 How to Run
 1. Open the notebook in Google Colab

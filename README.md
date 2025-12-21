@@ -1,6 +1,4 @@
 # Loan Eligibility Prediction Analyser
-![Intro](<>
-)
 
 ## 📌 Project Overview
 This project predicts whether a customer is eligible for a personal loan based on financial and demographic details using Machine Learning techniques.  
@@ -39,17 +37,7 @@ The dataset maintains realistic financial correlations.
 
 ## 🚀 Demo
 🔗 **Live Demo / Notebook:**  
-(https://colab.research.google.com/drive/12DbK8TS1c8nYR8IcXDcQgAyNY13Xl845?usp=sharing)
-
-## 🖼️ Screenshots
-### Model Accuracy
-![Accuracy](accuracy.png)
-
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
-### Sample Prediction
-![Prediction](prediction.png)
+[Demo](https://colab.research.google.com/drive/12DbK8TS1c8nYR8IcXDcQgAyNY13Xl845?usp=sharing)
 
 ## 📌 How to Run
 1. Open the notebook in Google Colab
